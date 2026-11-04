@@ -15,7 +15,7 @@ https://github.com/thomas-0816/laravel-duckdb
 
 ### Upcoming:
 
-Cli for viewing and searching docs for DuckDB, includes semantic search with llama.cpp:
+Cli for viewing and searching docs for DuckDB, includes semantic search:
 https://github.com/thomas-0816/duckdb-web-cli
 
 ### Proof of concept:
