@@ -27,3 +27,12 @@ https://github.com/thomas-0816/duckdb-web-cli
 DuckDB WASM Shell + Wllama Chat (WebGPU)
 
 https://github.com/thomas-0816/duckdb-wasm-shell-wllama
+
+
+### Latest Talks:
+
+[Run LLMs locally](https://github.com/thomas-0816/talks/blob/main/Run_LLMs_Locally_2026_ThomasBley.pdf)
+
+[Run LLMs locally in the browser](https://github.com/thomas-0816/talks/blob/main/Run_LLMs_Locally_in_the_browser_2026_ThomasBley_iJS_2026.pdf)
+
+[From Redis to Apache KVRocks](https://github.com/thomas-0816/talks/blob/main/From_Redis_To_Apache_KVRocks_2026_ThomasBley.pdf)
