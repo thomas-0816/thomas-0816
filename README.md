@@ -1,6 +1,6 @@
-<a href="https://github.com/thomas-0816/pdo-duckdb-php"><img src="pdo-duckdb-logo.jpg" width="300" alt="PHP PDO Driver for DuckDB"></a>
-<a href="https://github.com/thomas-0816/doctrine-dbal-duckdb"><img src="doctrine-dbal-duckdb-logo.jpg" width="300" alt="Doctrine DBAL for DuckDB"></a>
-<a href="https://github.com/thomas-0816/laravel-duckdb"><img src="laravel-duckdb-logo.jpg" width="300" alt="Laravel Eloquent driver for DuckDB"></a>
+<a href="https://github.com/thomas-0816/pdo-duckdb-php"><img src="pdo-duckdb-logo.jpg" width="275" alt="PHP PDO Driver for DuckDB"></a>
+<a href="https://github.com/thomas-0816/doctrine-dbal-duckdb"><img src="doctrine-dbal-duckdb-logo.jpg" width="275" alt="Doctrine DBAL for DuckDB"></a>
+<a href="https://github.com/thomas-0816/laravel-duckdb"><img src="laravel-duckdb-logo.jpg" width="275" alt="Laravel Eloquent driver for DuckDB"></a>
 
 ### Stable:
 
