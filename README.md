@@ -18,6 +18,8 @@ https://github.com/thomas-0816/laravel-duckdb
 Cli for viewing and searching docs for DuckDB, includes semantic search:
 https://github.com/thomas-0816/duckdb-web-cli
 
+<a href="https://github.com/thomas-0816/duckdb-web-cli"><img src="logo-duckdb-web-cli.jpg" width="275" title="Cli for viewing and searching docs for DuckDB"></a>
+
 ### Proof of concept:
 
 DuckDB WASM Shell + Wllama Chat, WebGPU:
