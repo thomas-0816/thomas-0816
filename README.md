@@ -16,7 +16,7 @@ https://github.com/thomas-0816/laravel-duckdb
 opencode-v2-tool-search:
 https://github.com/thomas-0816/opencode-v2-tool-search
 
-### Upcoming:
+### Testing:
 
 Cli for viewing and searching docs for DuckDB, includes semantic search:
 https://github.com/thomas-0816/duckdb-web-cli
