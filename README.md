@@ -31,12 +31,12 @@ https://github.com/thomas-0816/duckdb-wasm-shell-wllama
 
 ### Latest Talks:
 
-<table>
+<table style="border: none; border-collapse: collapse;">
 <tr>
-<td valign="top">
+<td valign="top" style="border: none;">
 <a href="https://github.com/thomas-0816/talks"><img src="talks_logo.jpeg" width="275" title="Talks"></a>
 </td>
-<td valign="top">
+<td valign="top" style="border: none;">
 
 [Run LLMs locally](https://github.com/thomas-0816/talks/blob/main/Run_LLMs_Locally_2026_ThomasBley.pdf)
 
