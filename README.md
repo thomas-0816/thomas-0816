@@ -31,12 +31,7 @@ https://github.com/thomas-0816/duckdb-wasm-shell-wllama
 
 ### Latest Talks:
 
-<table style="border: none; border-collapse: collapse;">
-<tr>
-<td valign="top" style="border: none;">
-<a href="https://github.com/thomas-0816/talks"><img src="talks_logo.jpeg" width="275" title="Talks"></a>
-</td>
-<td valign="top" style="border: none;">
+<a href="https://github.com/thomas-0816/talks"><img align="left" src="talks_logo.jpeg" width="275" title="Talks"></a>
 
 [Run LLMs locally](https://github.com/thomas-0816/talks/blob/main/Run_LLMs_Locally_2026_ThomasBley.pdf)
 
@@ -46,6 +41,4 @@ https://github.com/thomas-0816/duckdb-wasm-shell-wllama
 
 [HTMX](https://github.com/thomas-0816/talks/blob/main/HTMX_phpugmrn_2025_ThomasBley.pdf)
 
-</td>
-</tr>
-</table>
+<br clear="left">
