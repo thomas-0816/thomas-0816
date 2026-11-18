@@ -37,7 +37,7 @@ https://github.com/thomas-0816/duckdb-web-cli
 
 <br clear="left">
 
-### Proof of concept:
+### Proof of concept
 
 DuckDB WASM Shell + Wllama Chat, WebGPU:
 https://github.com/thomas-0816/duckdb-wasm-shell-wllama
