@@ -2,7 +2,7 @@
 <a href="https://github.com/thomas-0816/doctrine-dbal-duckdb"><img src="doctrine-dbal-duckdb-logo.jpg" width="275" title="Doctrine DBAL for DuckDB"></a>
 <a href="https://github.com/thomas-0816/laravel-duckdb"><img src="laravel-duckdb-logo.jpg" width="275" title="Laravel Eloquent driver for DuckDB"></a>
 
-### Stable:
+### Stable
 
 PHP PDO Driver for DuckDB:
 https://github.com/thomas-0816/pdo-duckdb-php
@@ -16,7 +16,7 @@ https://github.com/thomas-0816/laravel-duckdb
 opencode-v2-tool-search:
 https://github.com/thomas-0816/opencode-v2-tool-search
 
-### Testing:
+### Testing
 
 <a href="https://github.com/thomas-0816/duckdb-quack-protocol-php"><img align="left" src="logo-duckdb-quack-protocol-php.jpg" width="275" title="PHP client for DuckDB Quack remote protocol"></a>
 
@@ -43,7 +43,7 @@ DuckDB WASM Shell + Wllama Chat, WebGPU:
 https://github.com/thomas-0816/duckdb-wasm-shell-wllama
 
 
-### Latest Talks:
+### Latest Talks
 
 <a href="https://github.com/thomas-0816/talks"><img align="left" src="talks_logo.jpg" width="275" title="Talks"></a>
 
