@@ -35,11 +35,6 @@ PHP client for DuckDB Quack remote protocol
 https://github.com/thomas-0816/duckdb-quack-protocol-php
 
 <br clear="left">
-<br>
-
-opencode-v2-tool-search
-
-https://github.com/thomas-0816/opencode-v2-tool-search
 
 ### Testing:
 
@@ -51,6 +46,13 @@ includes semantic search:
 https://github.com/thomas-0816/duckdb-web-cli
 
 <br clear="left">
+
+### Tools
+
+opencode-v2-tool-search
+
+https://github.com/thomas-0816/opencode-v2-tool-search
+
 
 ### Proof of concept
 
