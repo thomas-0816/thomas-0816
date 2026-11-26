@@ -3,24 +3,30 @@
 
 <a href="https://github.com/thomas-0816/pdo-duckdb-php"><img align="left" src="pdo-duckdb-logo.jpg" width="275" title="PHP PDO Driver for DuckDB"></a>
 
-PHP PDO Driver for DuckDB:
+PHP PDO Driver for DuckDB
+
 https://github.com/thomas-0816/pdo-duckdb-php
 
 <br clear="left">
+<br>
 
 <a href="https://github.com/thomas-0816/doctrine-dbal-duckdb"><img align="left" src="doctrine-dbal-duckdb-logo.jpg" width="275" title="Doctrine DBAL for DuckDB"></a>
 
-Doctrine DBAL for DuckDB:
+Doctrine DBAL for DuckDB
+
 https://github.com/thomas-0816/doctrine-dbal-duckdb
 
 <br clear="left">
+<br>
 
 <a href="https://github.com/thomas-0816/laravel-duckdb"><img align="left" src="laravel-duckdb-logo.jpg" width="275" title="Laravel Eloquent driver for DuckDB"></a>
 
-Laravel Eloquent driver for DuckDB:
+Laravel Eloquent driver for DuckDB
+
 https://github.com/thomas-0816/laravel-duckdb
 
 <br clear="left">
+<br>
 
 <a href="https://github.com/thomas-0816/duckdb-quack-protocol-php"><img align="left" src="logo-duckdb-quack-protocol-php.jpg" width="275" title="PHP client for DuckDB Quack remote protocol"></a>
 
@@ -29,8 +35,10 @@ PHP client for DuckDB Quack remote protocol
 https://github.com/thomas-0816/duckdb-quack-protocol-php
 
 <br clear="left">
+<br>
 
-opencode-v2-tool-search:
+opencode-v2-tool-search
+
 https://github.com/thomas-0816/opencode-v2-tool-search
 
 ### Testing:
