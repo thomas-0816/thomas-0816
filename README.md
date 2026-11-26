@@ -1,5 +1,5 @@
 
-### Stable:
+### Stable
 
 <a href="https://github.com/thomas-0816/pdo-duckdb-php"><img align="left" src="pdo-duckdb-logo.jpg" width="275" title="PHP PDO Driver for DuckDB"></a>
 
@@ -37,14 +37,14 @@ https://github.com/thomas-0816/opencode-v2-tool-search
 
 <a href="https://github.com/thomas-0816/duckdb-web-cli"><img align="left" src="logo-duckdb-web-cli.jpg" width="275" title="Cli for viewing and searching docs for DuckDB"></a>
 
-Cli for viewing and searching docs for DuckDB,\
+CLI for viewing and searching docs for DuckDB,\
 includes semantic search:
 
 https://github.com/thomas-0816/duckdb-web-cli
 
 <br clear="left">
 
-### Proof of concept:
+### Proof of concept
 
 DuckDB WASM Shell + Wllama Chat, WebGPU:
 https://github.com/thomas-0816/duckdb-wasm-shell-wllama
