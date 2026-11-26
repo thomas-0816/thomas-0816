@@ -36,12 +36,12 @@ https://github.com/thomas-0816/duckdb-quack-protocol-php
 
 <br clear="left">
 
-### Testing:
+### Testing
 
 <a href="https://github.com/thomas-0816/duckdb-web-cli"><img align="left" src="logo-duckdb-web-cli.jpg" width="275" title="Cli for viewing and searching docs for DuckDB"></a>
 
 CLI for viewing and searching docs for DuckDB,\
-includes semantic search:
+includes semantic search.
 
 https://github.com/thomas-0816/duckdb-web-cli
 
@@ -49,17 +49,15 @@ https://github.com/thomas-0816/duckdb-web-cli
 
 ### Tools
 
-opencode-v2-tool-search
-
+opencode-v2-tool-search:
 https://github.com/thomas-0816/opencode-v2-tool-search
-
 
 ### Proof of concept
 
 DuckDB WASM Shell + Wllama Chat, WebGPU:
 https://github.com/thomas-0816/duckdb-wasm-shell-wllama
 
-### Latest Talks:
+### Latest Talks
 
 <a href="https://github.com/thomas-0816/talks"><img align="left" src="talks_logo.jpg" width="275" title="Talks"></a>
 
